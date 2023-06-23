@@ -35,7 +35,7 @@ class Config(object):
 
     # Go to https://dashboard.heroku.com/account, scroll down and press Reveal API
     # To check dyno status
-    HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", "")
+    HEROKU_API_KEY = os.environ.get("HEROKU_API_KEY", "1827cf8d-0c51-468d-9270-51e7076e6f14")
 
 
     # OPTIONAL - To set alternate BOT COMMANDS
